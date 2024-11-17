@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HappyLifeHealthCare/static/css/main.5e6e12c7.css",
+    "main.js": "/HappyLifeHealthCare/static/js/main.1940f8ca.js",
+    "index.html": "/HappyLifeHealthCare/index.html",
+    "main.5e6e12c7.css.map": "/HappyLifeHealthCare/static/css/main.5e6e12c7.css.map",
+    "main.1940f8ca.js.map": "/HappyLifeHealthCare/static/js/main.1940f8ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e6e12c7.css",
+    "static/js/main.1940f8ca.js"
+  ]
+}
